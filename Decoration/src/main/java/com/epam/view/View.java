@@ -14,26 +14,35 @@ public class View {
 
     public void weightCalculate() {
         double weight = controller.weightCalculate();
-//        printValue("necklace weight", weight);
+        printValue("necklace weight", weight);
     }
 
     public void costCalculate() {
         int cost = controller.costCalculate();
-//        printValue("necklace cost", cost);
+        printValue("necklace cost", cost);
     }
 
     public void sortedDecorByTransparency() {
         List<Decor> decors = controller.sortedDecorByTransparency();
-//        printDecors(decors);
+        printDecors(decors);
     }
 
     public void sortedDecorByCostByTransparency() {
         List<Decor> decors = controller.sortedDecorByCostByTransparency();
-//        printDecors(decors);
+        printDecors(decors);
     }
 
     public void findStoneByTransparency(int min, int max) {
         List<Decor> stones = controller.findStoneByTransparency(min, max);
-//        printDecors(stones);
+        printDecors(stones);
+    }
+    private void printValue(String message, double value) {
+        System.out.println(message + " " + value);
+    }
+
+    private void printDecors(List<Decor> decors) {
+        for (Decor decor : decors) {
+            System.out.println(decor);
+        }
     }
 }
