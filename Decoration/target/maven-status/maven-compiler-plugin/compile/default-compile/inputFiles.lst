@@ -1,0 +1,17 @@
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/dao/DecorDao.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/entity/enums/PearlsType.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/entity/decor/Pearls.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/view/View.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/service/ServiceImp.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/App.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/entity/decor/Stone.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/entity/decor/Amber.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/entity/decor/Decor.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/controller/Controller.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/service/gson/DecorJsonService.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/service/Service.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/entity/enums/StoneType.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/service/gson/RuntimeTypeAdapterFactory.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/entity/enums/DecorateOrigin.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/dao/Dao.java
+/Users/dmitriy/IdeaProjects/DecorationPro/Decoration/src/main/java/com/epam/model/entity/enums/AmberType.java

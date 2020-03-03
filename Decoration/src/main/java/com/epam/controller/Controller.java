@@ -17,7 +17,7 @@ public class Controller {
     }
 
     public int costCalculate() {
-        return service.weightCalculate();
+        return service.costCalculate();
     }
 
     public List<Decor> sortedDecorByTransparency() {
