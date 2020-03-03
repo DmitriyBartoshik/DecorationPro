@@ -1,4 +1,4 @@
-package com.epam.model.entity.decor.enums;
+package com.epam.model.entity.enums;
 
 public enum StoneType {
     EMERALD("emerald"), DIAMOND("diamond"), RUBY("ruby");

@@ -1,7 +1,8 @@
-package com.epam.decoration.model.entity.decor;
+package com.epam.model.entity.decor;
 
-import com.epam.decoration.model.entity.enums.AmberType;
-import com.epam.decoration.model.entity.enums.DecorateOrigin;
+
+import com.epam.model.entity.enums.AmberType;
+import com.epam.model.entity.enums.DecorateOrigin;
 
 public class Amber extends Decor {
     private final AmberType amberType;

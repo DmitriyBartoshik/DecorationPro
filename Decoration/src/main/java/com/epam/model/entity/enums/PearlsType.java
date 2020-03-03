@@ -1,4 +1,4 @@
-package com.epam.model.entity.decor.enums;
+package com.epam.model.entity.enums;
 
 public enum PearlsType {
     BAROQUE("baroque"), BLISTER("blister"), SOUFFLE("souffle");
