@@ -1,4 +1,4 @@
-package com.epam.model.service;
+package com.epam.service;
 
 import com.epam.model.entity.decor.Decor;
 

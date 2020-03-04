@@ -1,4 +1,4 @@
-package com.epam.model.service.gson;
+package com.epam.service.gson;
 
 /*
  * Copyright (C) 2011 Google Inc.

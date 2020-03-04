@@ -4,9 +4,9 @@ import com.epam.controller.Controller;
 import com.epam.model.dao.Dao;
 import com.epam.model.dao.DecorDao;
 import com.epam.model.entity.decor.Decor;
-import com.epam.model.service.Service;
-import com.epam.model.service.ServiceImp;
-import com.epam.model.service.gson.DecorJsonService;
+import com.epam.service.Service;
+import com.epam.service.ServiceImp;
+import com.epam.service.gson.DecorJsonService;
 import com.epam.view.View;
 
 import java.util.List;

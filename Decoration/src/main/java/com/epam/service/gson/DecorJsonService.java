@@ -1,4 +1,4 @@
-package com.epam.model.service.gson;
+package com.epam.service.gson;
 
 import com.epam.model.entity.decor.Amber;
 import com.epam.model.entity.decor.Decor;

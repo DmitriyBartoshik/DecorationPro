@@ -1,7 +1,7 @@
 package com.epam.controller;
 
 import com.epam.model.entity.decor.Decor;
-import com.epam.model.service.Service;
+import com.epam.service.Service;
 
 import java.util.List;
 
